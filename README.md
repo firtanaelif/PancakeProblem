@@ -1,3 +1,3 @@
 # Pancake
 AI Pancake Problem
-* [Go to Description](https://github.com/firtanaelif/Pancake/blob/master/artificial_intelligence.docx)
+* [Go to Description](https://github.com/firtanaelif/PancakeProblem/blob/master/artificial_intelligence.docx)
